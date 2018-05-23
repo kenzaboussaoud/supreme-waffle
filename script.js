@@ -1,3 +1,4 @@
+// Copyright Kenza Boussaoud
 
 // //Exercice 2 
 // var nom;
